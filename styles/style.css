@@ -1,4 +1,5 @@
 *{
+    margin: 0%;
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
 }
@@ -35,7 +36,6 @@
     font-weight: 400;
     line-height: normal;
     margin-top: 120px;
-    margin-bottom: -40px;
     padding-top: 70px;
 }
 .banner-name{
@@ -46,7 +46,7 @@
     line-height: 95px;
     height: 190px;
     width: 700px;
-    padding-left: 340px;
+    padding-left: 300px;
 }
 .main{
     font-family: 'Inter';
@@ -77,7 +77,6 @@
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-    margin-bottom: 0%;
 }
 .category{
     margin-top: 16px;
@@ -91,7 +90,7 @@
 }
 .new-year-img{
     padding-left: 350px;
-    margin-bottom: 0%;
+    margin-top: 48px;
 }
 .main .section2{
     margin-top: 120px;
@@ -110,11 +109,10 @@
 }
 .section2{
     display: flex;
-    /* gap: 120px; */
+    gap: 139px;
     
 }
 .grp-png{
-    /* margin-right: 138px; */
     display: flex;
     width: 319.83px;
     height: 464.662px;
@@ -147,7 +145,6 @@
     letter-spacing: 7.04px;
     width: 642px;
     height: 176px;
-    margin-bottom: 0%;
 }
 .banner2-paragraph{
     margin-top: 24px;
@@ -158,7 +155,7 @@
     font-weight: 400;
     line-height: 30px;
     width: 750px;
-    margin-bottom: 48px;
+    margin-bottom: 8px;
 }
 .btn{
     margin-top: 40px;
@@ -179,7 +176,6 @@
     text-transform: uppercase;
     border: none;
     margin-left: 50px;
-    margin-top: 0%;
 }
 .section3{
     font-family: 'Inter', sans-serif;
@@ -191,7 +187,6 @@
     margin-right: 70px;
 }
 .about-place{
-    
     text-align: center;
     font-family: 'Inter', sans-serif;
     font-size: 32px;
@@ -202,10 +197,65 @@
     text-align: center;
     justify-content: center;
     padding-left: 385px;
-    padding-top: 5%;
+    padding-top: 100px;
     width: 600px;
     height: 168px;
 }
 .name{
     color: #F00;
+}
+.section4{
+    margin-top: 120px;
+    margin-left: 80px;
+    width: 896px;
+}
+.portfolio{
+   
+}
+.text{
+
+}
+.portfolio-gift{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 0%;
+}
+.portfolio-title{
+    margin-top: 15px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 0%;
+}
+.portfolio-text{
+    margin-top: 20px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
+    margin-bottom: 48px;
+}
+.portfolio-img{
+    border-radius: 16px;
+    width: 1600px;
+    height: 735px;
+    
+}
+.gifts{
+    /* border: 16px; */
+    background: url(<path-to-image>), lightgray 0px -35.755px / 100% 142.115% no-repeat;
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
 }
