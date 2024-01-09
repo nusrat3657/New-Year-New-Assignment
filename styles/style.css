@@ -66,7 +66,6 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-bottom: 0%;
 }
 .deal{
     margin-top: 38px;
@@ -143,7 +142,7 @@
     font-size: 64px;
     font-style: normal;
     font-weight: 900;
-    line-height: 88px; /* 137.5% */
+    line-height: 88px;
     letter-spacing: 7.04px;
     width: 642px;
     height: 176px;
@@ -178,6 +177,73 @@
     text-transform: uppercase;
     border: none;
     margin-left: 50px;
+}
+.section6{
+    margin-top: 100px;
+    width: 1320px;
+    margin-left: 70px;
+    margin-right: 90px;
+}
+.section6-title{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 18px;
+    margin-left: 140px;
+}
+.sale-offer{
+    text-align: center;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-bottom: 28px;
+    margin-left: 190px;
+}
+#holiday{
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.sale-text{
+    margin-left: 196px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    width: 1068px;
+    height: 96px;
+    margin-bottom: 64px;
+}
+.section6-img{
+    position: relative;
+}
+#img-1{
+    position: absolute;
+
+}
+#img-2{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 740px;
+    margin-right: 376px;
+}
+#img-3{
+    margin-left: 891px;
+    margin-bottom: -5px;
 }
 .section3{
     font-family: 'Inter', sans-serif;
@@ -366,7 +432,7 @@
 }
 .container{
     background: #070211;
-    width: 1600px;
+    width: 1480px;
     height: 600px;
     font-family: Inter;
 }
