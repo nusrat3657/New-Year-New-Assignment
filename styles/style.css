@@ -179,6 +179,57 @@
     border: none;
     margin-left: 50px;
 }
+
+.section7-container{
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 90px;
+}
+.event{
+    margin-top: 100px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.year{
+    margin-top: 104px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+.year-text{
+    margin-top: 20px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 393px;
+}
+.circle{
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 49.08px;
+}
+.wish-text{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    width: 276px;
+    margin-bottom: 43px;
+}
 .section6{
     margin-top: 100px;
     width: 1380px;
@@ -437,7 +488,6 @@
 }
 .container{
     background: #070211;
-    width: 1480px;
     height: 600px;
     font-family: Inter;
 }
@@ -498,6 +548,7 @@ hr{
     display: flex;
     justify-content: center;
     margin-bottom: 48px;
+    margin-right: 24px;
 }
 .finish{
     color: #FFF;
