@@ -4,7 +4,7 @@
     font-family: 'Merriweather', serif;
 }
 .header{
-    background-image: url('/resources/Banner\ Image.png');
+    background-image: url('/resources/Banner Image.png');
     background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
@@ -545,7 +545,9 @@ text-transform: capitalize;
     height: 24px;
     margin-right: 8px;
 }
-
+.contact-text{
+    font-family: Inter;
+}
 hr{
     width: 1320px;
     height: 1px;
