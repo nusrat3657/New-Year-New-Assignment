@@ -28,6 +28,7 @@
     text-align: center;
     display: flex;
     flex-direction: column;
+    border-radius: 16px;
 }
 .banner-title{
     color: #FFF;
@@ -180,9 +181,10 @@
 }
 .section6{
     margin-top: 100px;
-    width: 1320px;
+    width: 1380px;
     margin-left: 70px;
     margin-right: 90px;
+    align-items: center;
 }
 .section6-title{
     color: #070211;
@@ -244,6 +246,9 @@
 #img-3{
     margin-left: 891px;
     margin-bottom: -5px;
+}
+#img-4{
+    width: 1320px;
 }
 .section3{
     font-family: 'Inter', sans-serif;
@@ -310,7 +315,7 @@
 .portfolio-img{
     margin-top: 48px;
     border-radius: 16px;
-    width: 1600px;
+    width: 1480px;
     height: 935px;
     margin-right: 90px;
 }
@@ -358,7 +363,7 @@
 }
 .section5{
     margin-left: 70px;
-    margin-right: 90px;
+    /* margin-right: 30px; */
     width: 1380px;
     height: 600px;
     border-radius: 16px;
